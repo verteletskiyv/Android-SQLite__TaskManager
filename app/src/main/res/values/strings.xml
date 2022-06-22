@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="delete_btn">Delete</string>
+    <string name="menu_title">Add new task</string>
+    <string name="list_name_field">List name</string>
+    <string name="info_app">Task management app</string>
+</resources>
